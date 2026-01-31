@@ -72,7 +72,7 @@ export default function EventPage() {
                   <Sparkles className="w-6 h-6 text-primary" />
                   <div>
                     <p className="text-sm text-muted-foreground">স্ট্যাটাস</p>
-                    <p className="text-lg font-semibold">চলমান - সারা বছর জুড়ে</p>
+                    <p className="text-lg font-semibold">চলমান - Deadline : 2 hour</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-3">
